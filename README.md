@@ -1,4 +1,9 @@
-# Java-second-year-mini-project
+//Please try and run this Code inside an ide like intellij IDEA
+//It is a simple project that asks the user for a password that will allow you to access a wood company account.
+//Enjoy....... {"__"}.....//
+                
+
+/////////////////////////////////JAVA-SECOND-YEAR-MINI-PROJECT////////////
 javaFx introduction used 
 import javax.swing.*;
 import java.util.LinkedHashSet;
