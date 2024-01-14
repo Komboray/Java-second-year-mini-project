@@ -1,3 +1,5 @@
+This is a system that takes in a user through a user unterface such as javafx that makes it easy for interacting with the system for non coders. Thhis allows it to grow into an application for easy use
+
 //Please try and run this Code inside an ide like intellij IDEA
 //It is a simple project that asks the user for a password that will allow you to access a wood company account.
 //Enjoy....... {"__"}.....//
